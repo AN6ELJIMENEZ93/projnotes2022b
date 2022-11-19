@@ -1,0 +1,216 @@
+{"level":"info","message":"GET /about 200 101.948 ms - 747\n","timestamp":"14-11-22 07-49-52"}
+{"level":"info","message":"GET /images/favicon.ico 200 8.323 ms - 15406\n","timestamp":"14-11-22 07-49-53"}
+{"level":"info","message":"GET /home 200 30.643 ms - 741\n","timestamp":"14-11-22 07-51-49"}
+{"level":"error","message":"404 - Page Not Found - /main.c502f94fc7be2ac39626.hot-update.json - Method: GET","timestamp":"14-11-22 07-56-17"}
+{"level":"info","message":"GET /main.c502f94fc7be2ac39626.hot-update.json 404 20.576 ms - 2183\n","timestamp":"14-11-22 07-56-17"}
+{"level":"info","message":"GET /home 304 82.989 ms - -\n","timestamp":"14-11-22 07-56-17"}
+{"level":"info","message":"GET /images/favicon.ico 304 6.183 ms - -\n","timestamp":"14-11-22 07-56-17"}
+{"level":"info","message":"GET /about 304 13.991 ms - -\n","timestamp":"14-11-22 07-56-19"}
+{"level":"error","message":"404 - Page Not Found - /main.427ed7f3eccc7ec26c30.hot-update.json - Method: GET","timestamp":"14-11-22 07-56-44"}
+{"level":"info","message":"GET /main.427ed7f3eccc7ec26c30.hot-update.json 404 18.915 ms - 2183\n","timestamp":"14-11-22 07-56-44"}
+{"level":"info","message":"GET /about 304 70.344 ms - -\n","timestamp":"14-11-22 07-56-44"}
+{"level":"info","message":"GET /images/favicon.ico 304 3.919 ms - -\n","timestamp":"14-11-22 07-56-44"}
+{"level":"info","message":"GET /about 304 14.569 ms - -\n","timestamp":"14-11-22 07-56-52"}
+{"level":"info","message":"GET /images/favicon.ico 304 2.390 ms - -\n","timestamp":"14-11-22 07-56-52"}
+{"level":"error","message":"404 - Page Not Found - /main.4153f4f1551b9779bac5.hot-update.json - Method: GET","timestamp":"14-11-22 07-57-19"}
+{"level":"info","message":"GET /main.4153f4f1551b9779bac5.hot-update.json 404 18.323 ms - 2183\n","timestamp":"14-11-22 07-57-19"}
+{"level":"info","message":"GET /about 304 59.028 ms - -\n","timestamp":"14-11-22 07-57-19"}
+{"level":"info","message":"GET /images/favicon.ico 304 1.892 ms - -\n","timestamp":"14-11-22 07-57-19"}
+{"level":"info","message":"GET /about 200 17.504 ms - 762\n","timestamp":"14-11-22 07-59-11"}
+{"level":"info","message":"GET /images/favicon.ico 304 2.390 ms - -\n","timestamp":"14-11-22 07-59-11"}
+{"level":"info","message":"GET /home 200 15.744 ms - 1168\n","timestamp":"14-11-22 08-02-54"}
+{"level":"info","message":"GET /home 200 26.916 ms - 1162\n","timestamp":"14-11-22 08-03-19"}
+{"level":"info","message":"GET /images/favicon.ico 304 1.754 ms - -\n","timestamp":"14-11-22 08-03-19"}
+{"level":"error","message":"404 - Page Not Found - /main.bfd4109bbad961e32abf.hot-update.json - Method: GET","timestamp":"14-11-22 08-09-12"}
+{"level":"info","message":"GET /main.bfd4109bbad961e32abf.hot-update.json 404 17.346 ms - 2183\n","timestamp":"14-11-22 08-09-12"}
+{"level":"info","message":"GET /home 304 67.053 ms - -\n","timestamp":"14-11-22 08-09-13"}
+{"level":"info","message":"GET /images/favicon.ico 304 2.084 ms - -\n","timestamp":"14-11-22 08-09-13"}
+{"level":"error","message":"404 - Page Not Found - /main.c5ec122910e3984d477f.hot-update.json - Method: GET","timestamp":"14-11-22 08-11-48"}
+{"level":"info","message":"GET /main.c5ec122910e3984d477f.hot-update.json 404 17.363 ms - 2183\n","timestamp":"14-11-22 08-11-48"}
+{"level":"info","message":"GET /home 304 59.333 ms - -\n","timestamp":"14-11-22 08-11-48"}
+{"level":"info","message":"GET /images/favicon.ico 304 2.068 ms - -\n","timestamp":"14-11-22 08-11-49"}
+{"level":"info","message":"GET /home 304 17.845 ms - -\n","timestamp":"14-11-22 08-14-18"}
+{"level":"info","message":"GET /images/favicon.ico 304 1.637 ms - -\n","timestamp":"14-11-22 08-14-18"}
+{"level":"error","message":"404 - Page Not Found - /main.af0f05e7d94c1fd928bf.hot-update.json - Method: GET","timestamp":"14-11-22 08-17-49"}
+{"level":"info","message":"GET /main.af0f05e7d94c1fd928bf.hot-update.json 404 18.654 ms - 2183\n","timestamp":"14-11-22 08-17-49"}
+{"level":"info","message":"GET /home 304 71.416 ms - -\n","timestamp":"14-11-22 08-17-49"}
+{"level":"info","message":"GET /images/favicon.ico 304 1.953 ms - -\n","timestamp":"14-11-22 08-17-49"}
+{"level":"error","message":"404 - Page Not Found - /main.4c9fa621c4a705caddec.hot-update.json - Method: GET","timestamp":"14-11-22 08-19-36"}
+{"level":"info","message":"GET /main.4c9fa621c4a705caddec.hot-update.json 404 16.386 ms - 2183\n","timestamp":"14-11-22 08-19-36"}
+{"level":"info","message":"GET /home 304 62.696 ms - -\n","timestamp":"14-11-22 08-19-36"}
+{"level":"info","message":"GET /images/favicon.ico 304 3.228 ms - -\n","timestamp":"14-11-22 08-19-36"}
+{"level":"error","message":"404 - Page Not Found - /main.61fafd840cdc6b88aa14.hot-update.json - Method: GET","timestamp":"14-11-22 08-22-27"}
+{"level":"info","message":"GET /main.61fafd840cdc6b88aa14.hot-update.json 404 20.101 ms - 2183\n","timestamp":"14-11-22 08-22-27"}
+{"level":"info","message":"GET /home 304 58.312 ms - -\n","timestamp":"14-11-22 08-22-27"}
+{"level":"info","message":"GET /images/favicon.ico 304 2.032 ms - -\n","timestamp":"14-11-22 08-22-27"}
+{"level":"info","message":"GET /about 200 24.374 ms - 1223\n","timestamp":"14-11-22 08-30-06"}
+{"level":"error","message":"404 - Page Not Found - /main.4fd8620d75cf180cced7.hot-update.json - Method: GET","timestamp":"14-11-22 08-40-03"}
+{"level":"info","message":"GET /main.4fd8620d75cf180cced7.hot-update.json 404 17.774 ms - 2183\n","timestamp":"14-11-22 08-40-03"}
+{"level":"info","message":"GET /about 304 48.470 ms - -\n","timestamp":"14-11-22 08-40-03"}
+{"level":"info","message":"GET /images/favicon.ico 304 2.010 ms - -\n","timestamp":"14-11-22 08-40-03"}
+{"level":"info","message":"GET /about 200 19.695 ms - 1251\n","timestamp":"14-11-22 08-42-33"}
+{"level":"info","message":"GET /images/favicon.ico 304 2.164 ms - -\n","timestamp":"14-11-22 08-42-34"}
+{"level":"info","message":"GET /about 304 20.209 ms - -\n","timestamp":"14-11-22 08-42-34"}
+{"level":"info","message":"GET /images/favicon.ico 304 2.433 ms - -\n","timestamp":"14-11-22 08-42-34"}
+{"level":"info","message":"GET /about 304 19.004 ms - -\n","timestamp":"14-11-22 08-42-34"}
+{"level":"info","message":"GET /images/favicon.ico 304 1.754 ms - -\n","timestamp":"14-11-22 08-42-34"}
+{"level":"info","message":"GET /about 304 14.815 ms - -\n","timestamp":"14-11-22 08-42-35"}
+{"level":"info","message":"GET /images/favicon.ico 304 1.102 ms - -\n","timestamp":"14-11-22 08-42-35"}
+{"level":"info","message":"GET /about 304 10.803 ms - -\n","timestamp":"14-11-22 08-42-35"}
+{"level":"info","message":"GET /images/favicon.ico 304 1.442 ms - -\n","timestamp":"14-11-22 08-42-35"}
+{"level":"info","message":"GET /about 304 15.142 ms - -\n","timestamp":"14-11-22 08-42-35"}
+{"level":"info","message":"GET /images/favicon.ico 304 1.262 ms - -\n","timestamp":"14-11-22 08-42-35"}
+{"level":"info","message":"GET /home 200 11.407 ms - 1190\n","timestamp":"14-11-22 08-42-41"}
+{"level":"info","message":"GET /about 304 10.205 ms - -\n","timestamp":"14-11-22 08-42-50"}
+{"level":"info","message":"GET /about 304 62.372 ms - -\n","timestamp":"14-11-22 08-43-40"}
+{"level":"info","message":"GET /about 200 19.203 ms - 1251\n","timestamp":"14-11-22 08-43-58"}
+{"level":"info","message":"GET /images/favicon.ico 304 6.559 ms - -\n","timestamp":"14-11-22 08-43-58"}
+{"level":"error","message":"404 - Page Not Found - /main.c6d7241bf8ebd65ba1a1.hot-update.json - Method: GET","timestamp":"14-11-22 08-51-08"}
+{"level":"info","message":"GET /main.c6d7241bf8ebd65ba1a1.hot-update.json 404 31.532 ms - 2183\n","timestamp":"14-11-22 08-51-08"}
+{"level":"info","message":"GET /about 200 80.746 ms - 1257\n","timestamp":"14-11-22 08-51-08"}
+{"level":"info","message":"GET /images/favicon.ico 304 2.518 ms - -\n","timestamp":"14-11-22 08-51-08"}
+{"level":"error","message":"404 - Page Not Found - /main.dddf82bb0d635592f694.hot-update.json - Method: GET","timestamp":"14-11-22 08-52-31"}
+{"level":"info","message":"GET /main.dddf82bb0d635592f694.hot-update.json 404 27.790 ms - 2183\n","timestamp":"14-11-22 08-52-31"}
+{"level":"info","message":"GET /about 304 163.549 ms - -\n","timestamp":"14-11-22 08-52-31"}
+{"level":"info","message":"GET /images/favicon.ico 304 2.136 ms - -\n","timestamp":"14-11-22 08-52-32"}
+{"level":"error","message":"404 - Page Not Found - /main.74e21a03a5b96f30f5c0.hot-update.json - Method: GET","timestamp":"14-11-22 08-57-54"}
+{"level":"info","message":"GET /main.74e21a03a5b96f30f5c0.hot-update.json 404 17.336 ms - 2183\n","timestamp":"14-11-22 08-57-54"}
+{"level":"info","message":"GET /about 304 74.787 ms - -\n","timestamp":"14-11-22 08-57-54"}
+{"level":"info","message":"GET /images/favicon.ico 304 1.962 ms - -\n","timestamp":"14-11-22 08-57-54"}
+{"level":"error","message":"404 - Page Not Found - /main.afcf0840ec40d31a82fa.hot-update.json - Method: GET","timestamp":"14-11-22 09-22-49"}
+{"level":"info","message":"GET /main.afcf0840ec40d31a82fa.hot-update.json 404 42.085 ms - 2183\n","timestamp":"14-11-22 09-22-49"}
+{"level":"info","message":"GET /about 304 104.847 ms - -\n","timestamp":"14-11-22 09-22-50"}
+{"level":"info","message":"GET /images/favicon.ico 304 3.593 ms - -\n","timestamp":"14-11-22 09-22-50"}
+{"level":"info","message":"GET /about 304 135.848 ms - -\n","timestamp":"14-11-22 09-23-46"}
+{"level":"info","message":"GET /home 200 16.445 ms - 1190\n","timestamp":"14-11-22 09-23-51"}
+{"level":"info","message":"GET /about 304 17.528 ms - -\n","timestamp":"14-11-22 09-23-59"}
+{"level":"info","message":"GET /about 200 68.156 ms - 1257\n","timestamp":"15-11-22 11-04-28"}
+{"level":"info","message":"GET /about 200 123.851 ms - 1257\n","timestamp":"15-11-22 15-02-02"}
+{"level":"error","message":"404 - Page Not Found - /main.4a338d3cc03c2221d9e8.hot-update.json - Method: GET","timestamp":"15-11-22 15-12-33"}
+{"level":"info","message":"GET /main.4a338d3cc03c2221d9e8.hot-update.json 404 23.583 ms - 2183\n","timestamp":"15-11-22 15-12-33"}
+{"level":"info","message":"GET /about 304 70.955 ms - -\n","timestamp":"15-11-22 15-12-33"}
+{"level":"info","message":"GET /images/favicon.ico 200 56.307 ms - 15406\n","timestamp":"15-11-22 15-12-33"}
+{"level":"info","message":"GET /about 304 28.243 ms - -\n","timestamp":"15-11-22 15-12-34"}
+{"level":"info","message":"GET /about 304 30.701 ms - -\n","timestamp":"15-11-22 15-12-42"}
+{"level":"info","message":"GET / 200 30.123 ms - 1190\n","timestamp":"15-11-22 15-14-06"}
+{"level":"info","message":"GET /images/favicon.ico 200 3.522 ms - 15406\n","timestamp":"15-11-22 15-14-07"}
+{"level":"error","message":"404 - Page Not Found - /main.a3fc85495636319b7a04.hot-update.json - Method: GET","timestamp":"15-11-22 15-19-19"}
+{"level":"error","message":"404 - Page Not Found - /main.a3fc85495636319b7a04.hot-update.json - Method: GET","timestamp":"15-11-22 15-19-19"}
+{"level":"info","message":"GET /main.a3fc85495636319b7a04.hot-update.json 404 30.850 ms - 2183\n","timestamp":"15-11-22 15-19-19"}
+{"level":"info","message":"GET /main.a3fc85495636319b7a04.hot-update.json 404 61.921 ms - 2183\n","timestamp":"15-11-22 15-19-19"}
+{"level":"error","message":"404 - Page Not Found - /main.a3fc85495636319b7a04.hot-update.json - Method: GET","timestamp":"15-11-22 15-19-19"}
+{"level":"info","message":"GET /main.a3fc85495636319b7a04.hot-update.json 404 37.140 ms - 2183\n","timestamp":"15-11-22 15-19-19"}
+{"level":"info","message":"GET / 304 150.533 ms - -\n","timestamp":"15-11-22 15-19-20"}
+{"level":"info","message":"GET /about 304 113.832 ms - -\n","timestamp":"15-11-22 15-19-20"}
+{"level":"info","message":"GET /about 304 92.360 ms - -\n","timestamp":"15-11-22 15-19-20"}
+{"level":"info","message":"GET /images/favicon.ico 304 3.801 ms - -\n","timestamp":"15-11-22 15-19-20"}
+{"level":"info","message":"GET /images/favicon.ico 304 1.679 ms - -\n","timestamp":"15-11-22 15-19-20"}
+{"level":"info","message":"GET /images/favicon.ico 304 1.817 ms - -\n","timestamp":"15-11-22 15-19-20"}
+{"level":"info","message":"GET /about 200 148.429 ms - 1272\n","timestamp":"16-11-22 07-08-32"}
+{"level":"info","message":"GET /images/favicon.ico 304 2.902 ms - -\n","timestamp":"16-11-22 07-08-32"}
+{"level":"info","message":"GET /about 200 15.494 ms - 1272\n","timestamp":"16-11-22 07-08-49"}
+{"level":"info","message":"GET /images/favicon.ico 304 1.651 ms - -\n","timestamp":"16-11-22 07-08-49"}
+{"level":"info","message":"GET /about 304 25.676 ms - -\n","timestamp":"16-11-22 07-08-50"}
+{"level":"info","message":"GET /images/favicon.ico 304 1.170 ms - -\n","timestamp":"16-11-22 07-08-50"}
+{"level":"info","message":"GET /about 304 13.251 ms - -\n","timestamp":"16-11-22 07-08-51"}
+{"level":"info","message":"GET /images/favicon.ico 304 2.039 ms - -\n","timestamp":"16-11-22 07-08-51"}
+{"level":"error","message":"404 - Page Not Found - /main.ff6e631d3a8c9a5b65c0.hot-update.json - Method: GET","timestamp":"16-11-22 07-09-11"}
+{"level":"info","message":"GET /main.ff6e631d3a8c9a5b65c0.hot-update.json 404 33.249 ms - 2183\n","timestamp":"16-11-22 07-09-11"}
+{"level":"info","message":"GET /about 304 64.047 ms - -\n","timestamp":"16-11-22 07-09-11"}
+{"level":"info","message":"GET /images/favicon.ico 304 2.796 ms - -\n","timestamp":"16-11-22 07-09-12"}
+{"level":"info","message":"GET /about 304 28.640 ms - -\n","timestamp":"16-11-22 07-09-14"}
+{"level":"info","message":"GET /images/favicon.ico 304 1.922 ms - -\n","timestamp":"16-11-22 07-09-14"}
+{"level":"info","message":"GET /about 304 13.757 ms - -\n","timestamp":"16-11-22 07-09-16"}
+{"level":"info","message":"GET /images/favicon.ico 304 1.304 ms - -\n","timestamp":"16-11-22 07-09-16"}
+{"level":"error","message":"404 - Page Not Found - /main.4784187ae92252dcde81.hot-update.json - Method: GET","timestamp":"16-11-22 07-13-59"}
+{"level":"info","message":"GET /main.4784187ae92252dcde81.hot-update.json 404 25.565 ms - 2183\n","timestamp":"16-11-22 07-13-59"}
+{"level":"info","message":"GET /about 200 257.608 ms - 1316\n","timestamp":"16-11-22 07-13-59"}
+{"level":"error","message":"404 - Page Not Found - /public/images/1.jpeg - Method: GET","timestamp":"16-11-22 07-14-00"}
+{"level":"info","message":"GET /public/images/1.jpeg 404 26.165 ms - 2183\n","timestamp":"16-11-22 07-14-00"}
+{"level":"info","message":"GET /images/favicon.ico 304 5.080 ms - -\n","timestamp":"16-11-22 07-14-00"}
+{"level":"error","message":"404 - Page Not Found - /main.ef634738cfa1d63a6fbd.hot-update.json - Method: GET","timestamp":"16-11-22 07-15-41"}
+{"level":"info","message":"GET /main.ef634738cfa1d63a6fbd.hot-update.json 404 23.658 ms - 2183\n","timestamp":"16-11-22 07-15-41"}
+{"level":"info","message":"GET /about 200 58.395 ms - 1323\n","timestamp":"16-11-22 07-15-41"}
+{"level":"error","message":"404 - Page Not Found - /prueba/public/images/1.jpeg - Method: GET","timestamp":"16-11-22 07-15-41"}
+{"level":"info","message":"GET /prueba/public/images/1.jpeg 404 27.806 ms - 2183\n","timestamp":"16-11-22 07-15-41"}
+{"level":"info","message":"GET /images/favicon.ico 304 2.431 ms - -\n","timestamp":"16-11-22 07-15-41"}
+{"level":"info","message":"GET /about 304 21.020 ms - -\n","timestamp":"16-11-22 07-15-58"}
+{"level":"error","message":"404 - Page Not Found - /prueba/public/images/1.jpeg - Method: GET","timestamp":"16-11-22 07-15-58"}
+{"level":"info","message":"GET /prueba/public/images/1.jpeg 404 15.665 ms - 2183\n","timestamp":"16-11-22 07-15-58"}
+{"level":"info","message":"GET /images/favicon.ico 304 1.110 ms - -\n","timestamp":"16-11-22 07-15-58"}
+{"level":"info","message":"GET /about 304 19.083 ms - -\n","timestamp":"16-11-22 07-15-59"}
+{"level":"error","message":"404 - Page Not Found - /prueba/public/images/1.jpeg - Method: GET","timestamp":"16-11-22 07-15-59"}
+{"level":"info","message":"GET /prueba/public/images/1.jpeg 404 14.725 ms - 2183\n","timestamp":"16-11-22 07-15-59"}
+{"level":"info","message":"GET /images/favicon.ico 304 1.829 ms - -\n","timestamp":"16-11-22 07-15-59"}
+{"level":"info","message":"GET /about 304 17.343 ms - -\n","timestamp":"16-11-22 07-15-59"}
+{"level":"error","message":"404 - Page Not Found - /prueba/public/images/1.jpeg - Method: GET","timestamp":"16-11-22 07-15-59"}
+{"level":"info","message":"GET /prueba/public/images/1.jpeg 404 13.278 ms - 2183\n","timestamp":"16-11-22 07-15-59"}
+{"level":"info","message":"GET /images/favicon.ico 304 1.286 ms - -\n","timestamp":"16-11-22 07-15-59"}
+{"level":"error","message":"404 - Page Not Found - /main.76d30f7fc52b56b57c92.hot-update.json - Method: GET","timestamp":"16-11-22 07-16-21"}
+{"level":"info","message":"GET /main.76d30f7fc52b56b57c92.hot-update.json 404 20.607 ms - 2183\n","timestamp":"16-11-22 07-16-21"}
+{"level":"info","message":"GET /about - - ms - -\n","timestamp":"16-11-22 07-16-21"}
+{"level":"info","message":"GET /about 200 64.531 ms - 1321\n","timestamp":"16-11-22 07-16-21"}
+{"level":"error","message":"404 - Page Not Found - /prueba/public/images/1.jpeg - Method: GET","timestamp":"16-11-22 07-16-21"}
+{"level":"info","message":"GET /prueba/public/images/1.jpeg 404 33.213 ms - 2183\n","timestamp":"16-11-22 07-16-21"}
+{"level":"info","message":"GET /images/favicon.ico 304 2.842 ms - -\n","timestamp":"16-11-22 07-16-21"}
+{"level":"info","message":"GET /about 200 66.608 ms - 1324\n","timestamp":"16-11-22 07-18-08"}
+{"level":"info","message":"GET /images/Creeper.jpg 200 68.236 ms - 60435\n","timestamp":"16-11-22 07-18-09"}
+{"level":"info","message":"GET /images/favicon.ico 304 4.004 ms - -\n","timestamp":"16-11-22 07-18-09"}
+{"level":"error","message":"404 - Page Not Found - /main.1bfe42808f90d2c89467.hot-update.json - Method: GET","timestamp":"16-11-22 07-18-31"}
+{"level":"info","message":"GET /main.1bfe42808f90d2c89467.hot-update.json 404 19.231 ms - 2183\n","timestamp":"16-11-22 07-18-31"}
+{"level":"info","message":"GET /about 200 59.554 ms - 1319\n","timestamp":"16-11-22 07-18-31"}
+{"level":"info","message":"GET /images/1.jpeg 200 16.941 ms - 142024\n","timestamp":"16-11-22 07-18-31"}
+{"level":"info","message":"GET /images/favicon.ico 304 1.158 ms - -\n","timestamp":"16-11-22 07-18-31"}
+{"level":"info","message":"GET /about 200 57.833 ms - 1304\n","timestamp":"16-11-22 07-19-00"}
+{"level":"info","message":"GET /images/1.jpeg 304 1.401 ms - -\n","timestamp":"16-11-22 07-19-00"}
+{"level":"info","message":"GET /images/favicon.ico 304 1.128 ms - -\n","timestamp":"16-11-22 07-19-00"}
+{"level":"info","message":"GET /about 200 26.170 ms - 1320\n","timestamp":"16-11-22 07-19-21"}
+{"level":"info","message":"GET /images/1.jpeg 304 9.447 ms - -\n","timestamp":"16-11-22 07-19-21"}
+{"level":"info","message":"GET /images/favicon.ico 304 1.711 ms - -\n","timestamp":"16-11-22 07-19-21"}
+{"level":"info","message":"GET /about 200 12.611 ms - 1333\n","timestamp":"16-11-22 07-19-33"}
+{"level":"info","message":"GET /images/1.jpeg 304 2.144 ms - -\n","timestamp":"16-11-22 07-19-33"}
+{"level":"info","message":"GET /images/favicon.ico 304 1.528 ms - -\n","timestamp":"16-11-22 07-19-34"}
+{"level":"error","message":"404 - Page Not Found - /www - Method: GET","timestamp":"16-11-22 07-19-58"}
+{"level":"info","message":"GET /www 404 16.785 ms - 2264\n","timestamp":"16-11-22 07-19-58"}
+{"level":"error","message":"404 - Page Not Found - /favicon.ico - Method: GET","timestamp":"16-11-22 07-19-59"}
+{"level":"info","message":"GET /favicon.ico 404 7.191 ms - 2183\n","timestamp":"16-11-22 07-19-59"}
+{"level":"info","message":"GET /about 304 20.773 ms - -\n","timestamp":"16-11-22 07-20-03"}
+{"level":"info","message":"GET /images/1.jpeg 304 1.617 ms - -\n","timestamp":"16-11-22 07-20-03"}
+{"level":"error","message":"404 - Page Not Found - /main.d35505e7959f733238c6.hot-update.json - Method: GET","timestamp":"16-11-22 07-32-51"}
+{"level":"info","message":"GET /main.d35505e7959f733238c6.hot-update.json 404 34.691 ms - 2183\n","timestamp":"16-11-22 07-32-51"}
+{"level":"info","message":"GET /about 200 49.420 ms - 1698\n","timestamp":"16-11-22 07-32-51"}
+{"level":"info","message":"GET /images/1.jpeg 304 13.516 ms - -\n","timestamp":"16-11-22 07-32-51"}
+{"level":"info","message":"GET /images/favicon.ico 304 1.784 ms - -\n","timestamp":"16-11-22 07-32-51"}
+{"level":"info","message":"GET /about 304 17.805 ms - -\n","timestamp":"16-11-22 07-32-56"}
+{"level":"info","message":"GET /images/1.jpeg 304 1.257 ms - -\n","timestamp":"16-11-22 07-32-56"}
+{"level":"info","message":"GET /images/favicon.ico 304 1.228 ms - -\n","timestamp":"16-11-22 07-32-56"}
+{"level":"info","message":"GET /about 200 23.028 ms - 1646\n","timestamp":"16-11-22 07-33-26"}
+{"level":"info","message":"GET /images/1.jpeg 304 2.829 ms - -\n","timestamp":"16-11-22 07-33-26"}
+{"level":"info","message":"GET /images/favicon.ico 304 1.235 ms - -\n","timestamp":"16-11-22 07-33-27"}
+{"level":"info","message":"GET /about 304 61.929 ms - -\n","timestamp":"16-11-22 07-41-07"}
+{"level":"info","message":"GET /images/1.jpeg 304 13.187 ms - -\n","timestamp":"16-11-22 07-41-07"}
+{"level":"info","message":"GET /images/favicon.ico 304 5.588 ms - -\n","timestamp":"16-11-22 07-41-08"}
+{"level":"info","message":"GET /about 200 17.613 ms - 1742\n","timestamp":"16-11-22 07-42-38"}
+{"level":"info","message":"GET /images/1.jpeg 304 8.788 ms - -\n","timestamp":"16-11-22 07-42-38"}
+{"level":"info","message":"GET /images/favicon.ico 304 2.444 ms - -\n","timestamp":"16-11-22 07-42-42"}
+{"level":"info","message":"GET /home 200 18.369 ms - 1599\n","timestamp":"16-11-22 07-43-38"}
+{"level":"error","message":"404 - Page Not Found - /main.caf80ef7e8bd38c7475e.hot-update.json - Method: GET","timestamp":"16-11-22 07-47-07"}
+{"level":"info","message":"GET /main.caf80ef7e8bd38c7475e.hot-update.json 404 20.606 ms - 2183\n","timestamp":"16-11-22 07-47-07"}
+{"level":"info","message":"GET /about 304 205.735 ms - -\n","timestamp":"16-11-22 07-47-07"}
+{"level":"info","message":"GET /home 304 63.776 ms - -\n","timestamp":"16-11-22 07-47-07"}
+{"level":"info","message":"GET /images/1.jpeg 304 14.071 ms - -\n","timestamp":"16-11-22 07-47-07"}
+{"level":"info","message":"GET /images/favicon.ico 304 1.736 ms - -\n","timestamp":"16-11-22 07-47-07"}
+{"level":"info","message":"GET /images/favicon.ico 304 2.001 ms - -\n","timestamp":"16-11-22 07-47-07"}
+{"level":"error","message":"404 - Page Not Found - /main.fb12a45f2c61f67bb0ec.hot-update.json - Method: GET","timestamp":"16-11-22 07-49-50"}
+{"level":"info","message":"GET /main.fb12a45f2c61f67bb0ec.hot-update.json 404 20.695 ms - 2183\n","timestamp":"16-11-22 07-49-50"}
+{"level":"error","message":"404 - Page Not Found - /main.fb12a45f2c61f67bb0ec.hot-update.json - Method: GET","timestamp":"16-11-22 07-49-50"}
+{"level":"info","message":"GET /main.fb12a45f2c61f67bb0ec.hot-update.json 404 15.749 ms - 2183\n","timestamp":"16-11-22 07-49-50"}
+{"level":"info","message":"GET /home 200 81.908 ms - 1993\n","timestamp":"16-11-22 07-49-50"}
+{"level":"info","message":"GET /about 200 73.521 ms - 2136\n","timestamp":"16-11-22 07-49-50"}
+{"level":"info","message":"GET /images/1.jpeg 304 13.398 ms - -\n","timestamp":"16-11-22 07-49-50"}
+{"level":"info","message":"GET /images/favicon.ico 304 1.450 ms - -\n","timestamp":"16-11-22 07-49-50"}
+{"level":"info","message":"GET /images/favicon.ico 304 0.699 ms - -\n","timestamp":"16-11-22 07-49-50"}
+{"level":"info","message":"GET /about 304 16.645 ms - -\n","timestamp":"16-11-22 07-49-55"}
+{"level":"info","message":"GET /images/1.jpeg 304 1.686 ms - -\n","timestamp":"16-11-22 07-49-55"}
+{"level":"info","message":"GET /images/favicon.ico 304 2.518 ms - -\n","timestamp":"16-11-22 07-49-55"}
+{"level":"info","message":"GET /home 304 14.332 ms - -\n","timestamp":"16-11-22 07-52-27"}
