@@ -6,7 +6,7 @@ dotEnv.config();
 
 //Creando un objeto de configuracion
 const defaultConfig = { 
-    port: process.env.port || 3000,
+    port: process.env.port || 3002,
     appVersion: process.env.APP_VERSION,
 };
 
