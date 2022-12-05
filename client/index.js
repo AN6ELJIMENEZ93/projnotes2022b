@@ -10,4 +10,3 @@ import 'materialize-css/dist/js/materialize';
 M.AutoInit();
 
 console.log('Webpack Working Middleware!!! 📦');
-

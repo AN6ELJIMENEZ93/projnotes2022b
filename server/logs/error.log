@@ -32,3 +32,20 @@
 {"level":"error","message":"404 - Page Not Found - /main.caf80ef7e8bd38c7475e.hot-update.json - Method: GET","timestamp":"16-11-22 07-47-07"}
 {"level":"error","message":"404 - Page Not Found - /main.fb12a45f2c61f67bb0ec.hot-update.json - Method: GET","timestamp":"16-11-22 07-49-50"}
 {"level":"error","message":"404 - Page Not Found - /main.fb12a45f2c61f67bb0ec.hot-update.json - Method: GET","timestamp":"16-11-22 07-49-50"}
+{"level":"error","message":"404 - Page Not Found - /main.eacfe020a5a9be60293c.hot-update.json - Method: GET","timestamp":"23-11-22 07-44-28"}
+{"level":"error","message":"404 - Page Not Found - /about/add - Method: GET","timestamp":"23-11-22 07-51-33"}
+{"level":"error","message":"404 - Page Not Found - /favicon.ico - Method: GET","timestamp":"23-11-22 07-51-33"}
+{"level":"error","message":"\ud83e\udd40 No se pudo realizar la conexion debido a: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","timestamp":"01-12-22 10-20-52"}
+{"level":"error","message":"🥀 No se conecto a la base de datos","timestamp":"01-12-22 10-20-58"}
+{"level":"error","message":"\ud83e\udd40 No se pudo realizar la conexion debido a: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","timestamp":"01-12-22 23-42-16"}
+{"level":"error","message":"🥀 No se conecto a la base de datos","timestamp":"01-12-22 23-42-22"}
+{"level":"error","message":"\ud83e\udd40 No se pudo realizar la conexion debido a: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","timestamp":"04-12-22 11-00-19"}
+{"level":"error","message":"🥀 No se conecto a la base de datos","timestamp":"04-12-22 11-00-24"}
+{"level":"error","message":"404 - Page Not Found - /add - Method: GET","timestamp":"04-12-22 11-04-09"}
+{"level":"error","message":"\ud83e\udd40 No se pudo realizar la conexion debido a: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","timestamp":"04-12-22 11-48-22"}
+{"level":"error","message":"🥀 No se conecto a la base de datos","timestamp":"04-12-22 11-48-22"}
+{"level":"error","message":"404 - Page Not Found - /main.763dc8f92eedaa866c21.hot-update.json - Method: GET","timestamp":"04-12-22 11-48-26"}
+{"level":"error","message":"\ud83e\udd40 No se pudo realizar la conexion debido a: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","timestamp":"04-12-22 15-21-57"}
+{"level":"error","message":"🥀 No se conecto a la base de datos","timestamp":"04-12-22 15-22-00"}
+{"level":"error","message":"\ud83e\udd40 No se pudo realizar la conexion debido a: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","timestamp":"04-12-22 15-57-36"}
+{"level":"error","message":"🥀 No se conecto a la base de datos","timestamp":"04-12-22 15-57-38"}
