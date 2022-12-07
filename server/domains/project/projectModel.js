@@ -12,6 +12,10 @@ const ProjectSchema = new Schema({
     type: String,
     required: true,
   },
+  area: {
+    type: String,
+    required: true,
+  },
   date: {
     type: Date,
     default: Date.now,

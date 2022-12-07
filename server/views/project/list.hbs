@@ -1,1 +1,20 @@
-<h1>Listar Proyecto</h1>
+<h1>Lista de Alumnos</h1>
+
+ <table bgcolor='#f8bbd0' class="centered">
+        <thead>
+          <tr>
+              <th>Nombre del Alumno </th>
+              <th>Numero de Control</th>
+              <th>Area<th>
+          </tr>
+        </thead>
+        <tbody {{#each projects}} >
+          <tr>
+            <td> {{name}}</td>
+            <td> {{description}}</td>
+            <td> {{area}}</td>
+            
+          </tr>
+          
+        </tbody {{/each}} > 
+      </table>

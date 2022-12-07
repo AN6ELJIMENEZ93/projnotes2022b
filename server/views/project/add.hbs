@@ -3,21 +3,23 @@
     <div class='card'>
       <!-- Imagen de tarjeta -->
       <div class='card-image'>
-        <img src='/images/project.jpg' alt='Project Image' />
+        <img src='/images/servicio.jpg' alt='Project Image' />
         <span class='card-title white teal-text text-darken-4'>
-          Agregar Proyecto
+          Agregar Alumno
         </span>
       </div>
       <!-- Contenido de tarjeta -->
       <form autocomplete='off' action='/project/add' method='POST'>
         <div class='card-content'>
           <div class='input-field'>
-            <label for='project-name'>Nombre de tu idea de proyecto</label>
+            <label for='project-name'>Nombre del Alumno</label>
             <input
-              placeholder='El nombre del proyecto aqui 👇'
+              placeholder='El nombre del alumno aqui 🧑‍💻'
               type='text'
               name='name'
               id='project-name'
+              value="{{project.name}}"
+              required
             />
             {{#if errorModel.nameError}}
             <span style="color:red;">🚩 {{errorModel.nameError}}</span>
@@ -25,15 +27,29 @@
           </div>
           <div class='input-field'>
             <label for='project-description'>
-              Descripción del proyecto
+              Numero de Control
             </label>
             <textarea
               name='description'
               class="materialize-textarea"
               id='project-description'
-            ></textarea>
+              required
+            >{{project.description}}</textarea>
             {{#if errorModel.descriptionError}}
             <span style="color:red;">🚩 {{errorModel.descriptionError}}</span>
+            {{/if}}
+          </div>
+          <div class='input-field'>
+            <label for='project-area'>
+              Area en la que realizara el servicio social
+            </label>
+            <textarea
+              name='area'
+              class="materialize-textarea"
+              id='project-area'
+            >{{project.area}}</textarea>
+            {{#if errorModel.area}}
+            <span style="color:red;">🚩 {{errorModel.areaError}}</span>
             {{/if}}
           </div>
         </div>

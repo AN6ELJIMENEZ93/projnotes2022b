@@ -49,3 +49,70 @@
 {"level":"error","message":"🥀 No se conecto a la base de datos","timestamp":"04-12-22 15-22-00"}
 {"level":"error","message":"\ud83e\udd40 No se pudo realizar la conexion debido a: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","timestamp":"04-12-22 15-57-36"}
 {"level":"error","message":"🥀 No se conecto a la base de datos","timestamp":"04-12-22 15-57-38"}
+{"level":"error","message":"\ud83e\udd40 No se pudo realizar la conexion debido a: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","timestamp":"05-12-22 00-37-45"}
+{"level":"error","message":"🥀 No se conecto a la base de datos","timestamp":"05-12-22 00-37-50"}
+{"level":"error","message":"\ud83e\udd40 No se pudo realizar la conexion debido a: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","timestamp":"05-12-22 07-18-28"}
+{"level":"error","message":"🥀 No se conecto a la base de datos","timestamp":"05-12-22 07-18-33"}
+{"level":"error","message":"\ud83e\udd40 No se pudo realizar la conexion debido a: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","timestamp":"05-12-22 08-14-00"}
+{"level":"error","message":"🥀 No se conecto a la base de datos","timestamp":"05-12-22 08-14-00"}
+{"level":"error","message":"404 - Page Not Found - /main.d1ee8d1a16662347c35e.hot-update.json - Method: GET","timestamp":"05-12-22 08-14-04"}
+{"level":"error","message":"\ud83e\udd40 No se pudo realizar la conexion debido a: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","timestamp":"05-12-22 08-39-38"}
+{"level":"error","message":"🥀 No se conecto a la base de datos","timestamp":"05-12-22 08-39-39"}
+{"level":"error","message":"404 - Page Not Found - /main.00f88ba17bce25f21fe4.hot-update.json - Method: GET","timestamp":"05-12-22 08-39-44"}
+{"level":"error","message":"\ud83e\udd40 No se pudo realizar la conexion debido a: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","timestamp":"05-12-22 08-42-59"}
+{"level":"error","message":"🥀 No se conecto a la base de datos","timestamp":"05-12-22 08-42-59"}
+{"level":"error","message":"404 - Page Not Found - /main.9cea269ec5090b7c32ef.hot-update.json - Method: GET","timestamp":"05-12-22 08-43-03"}
+{"level":"error","message":"\ud83e\udd40 No se pudo realizar la conexion debido a: The `uri` parameter to `openUri()` must be a string, got \"undefined\". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.","timestamp":"05-12-22 08-44-08"}
+{"level":"error","message":"🥀 No se conecto a la base de datos","timestamp":"05-12-22 08-44-09"}
+{"level":"error","message":"404 - Page Not Found - /main.984854a2e504e661ec5d.hot-update.json - Method: GET","timestamp":"05-12-22 08-44-13"}
+{"level":"error","message":"🥀 No se pudo realizar la conexion debido a: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"05-12-22 17-59-23"}
+{"level":"error","message":"🥀 No se conecto a la base de datos","timestamp":"05-12-22 17-59-23"}
+{"level":"error","message":"404 - Page Not Found - /main.b014c26c5dd3e4357d8d.hot-update.json - Method: GET","timestamp":"05-12-22 20-48-13"}
+{"level":"error","message":"🥀 No se pudo realizar la conexion debido a: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"05-12-22 20-48-38"}
+{"level":"error","message":"🥀 No se conecto a la base de datos","timestamp":"05-12-22 20-48-38"}
+{"level":"error","message":"404 - Page Not Found - /main.5217fad55d951bb43480.hot-update.json - Method: GET","timestamp":"05-12-22 20-52-37"}
+{"level":"error","message":"🥀 No se pudo realizar la conexion debido a: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"05-12-22 20-53-02"}
+{"level":"error","message":"🥀 No se conecto a la base de datos","timestamp":"05-12-22 20-53-02"}
+{"level":"error","message":"404 - Page Not Found - /main.f7e7ee9fa08da530ea80.hot-update.json - Method: GET","timestamp":"05-12-22 20-57-09"}
+{"level":"error","message":"🥀 No se pudo realizar la conexion debido a: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"05-12-22 20-57-26"}
+{"level":"error","message":"🥀 No se conecto a la base de datos","timestamp":"05-12-22 20-57-26"}
+{"level":"error","message":"🥀 No se pudo realizar la conexion debido a: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"06-12-22 12-45-17"}
+{"level":"error","message":"🥀 No se conecto a la base de datos","timestamp":"06-12-22 12-45-17"}
+{"level":"error","message":"🥀 No se pudo realizar la conexion debido a: connect ECONNREFUSED 127.0.0.1:27017","timestamp":"06-12-22 12-48-22"}
+{"level":"error","message":"🥀 No se conecto a la base de datos","timestamp":"06-12-22 12-48-22"}
+{"level":"error","message":"404 - Page Not Found - /main.1196a64c3ec7da3907cb.hot-update.json - Method: GET","timestamp":"06-12-22 13-17-15"}
+{"level":"error","message":"404 - Page Not Found - /main.c9dc2be7628f37275460.hot-update.json - Method: GET","timestamp":"06-12-22 13-26-07"}
+{"level":"error","message":"404 - Page Not Found - /main.5f5231a0a8ace67b050c.hot-update.json - Method: GET","timestamp":"06-12-22 13-30-02"}
+{"level":"error","message":"404 - Page Not Found - /main.4ce8919fd01673f82cce.hot-update.json - Method: GET","timestamp":"06-12-22 16-54-50"}
+{"level":"error","message":"🥀 No se pudo realizar la conexion debido a: connect ECONNREFUSED 127.0.0.1:27016","timestamp":"06-12-22 16-55-15"}
+{"level":"error","message":"🥀 No se conecto a la base de datos","timestamp":"06-12-22 16-55-15"}
+{"level":"error","message":"404 - Page Not Found - /main.7af9b947be31a6a913f3.hot-update.json - Method: GET","timestamp":"06-12-22 16-57-54"}
+{"level":"error","message":"🥀 No se pudo realizar la conexion debido a: connect ECONNREFUSED 127.0.0.1:27016","timestamp":"06-12-22 16-58-19"}
+{"level":"error","message":"🥀 No se conecto a la base de datos","timestamp":"06-12-22 16-58-19"}
+{"level":"error","message":"404 - Page Not Found - /main.59e95d172098ae1ee064.hot-update.json - Method: GET","timestamp":"06-12-22 16-59-20"}
+{"level":"error","message":"🥀 No se pudo realizar la conexion debido a: connect ECONNREFUSED 127.0.0.1:27016","timestamp":"06-12-22 16-59-46"}
+{"level":"error","message":"🥀 No se conecto a la base de datos","timestamp":"06-12-22 16-59-46"}
+{"level":"error","message":"🥀 No se pudo realizar la conexion debido a: connect ECONNREFUSED 127.0.0.1:27016","timestamp":"06-12-22 17-04-35"}
+{"level":"error","message":"🥀 No se conecto a la base de datos","timestamp":"06-12-22 17-04-35"}
+{"level":"error","message":"404 - Page Not Found - /main.2c4c1d6df2722453afdd.hot-update.json - Method: GET","timestamp":"06-12-22 17-06-21"}
+{"level":"error","message":"🥀 No se pudo realizar la conexion debido a: connect ECONNREFUSED 127.0.0.1:27016","timestamp":"06-12-22 17-06-45"}
+{"level":"error","message":"🥀 No se conecto a la base de datos","timestamp":"06-12-22 17-06-45"}
+{"level":"error","message":"404 - Page Not Found - /main.873b9f57e1668868839a.hot-update.json - Method: GET","timestamp":"06-12-22 17-08-45"}
+{"level":"error","message":"🥀 No se pudo realizar la conexion debido a: connect ECONNREFUSED 127.0.0.1:27016","timestamp":"06-12-22 17-09-09"}
+{"level":"error","message":"🥀 No se conecto a la base de datos","timestamp":"06-12-22 17-09-09"}
+{"level":"error","message":"404 - Page Not Found - /main.de78e97b012c0b843f9c.hot-update.json - Method: GET","timestamp":"06-12-22 17-09-46"}
+{"level":"error","message":"🥀 No se pudo realizar la conexion debido a: connect ECONNREFUSED 127.0.0.1:27016","timestamp":"06-12-22 17-10-08"}
+{"level":"error","message":"🥀 No se conecto a la base de datos","timestamp":"06-12-22 17-10-08"}
+{"level":"error","message":"404 - Page Not Found - /main.17a0a5632fa63ea4c44a.hot-update.json - Method: GET","timestamp":"06-12-22 17-11-42"}
+{"level":"error","message":"🥀 No se pudo realizar la conexion debido a: connect ECONNREFUSED 127.0.0.1:27016","timestamp":"06-12-22 17-11-46"}
+{"level":"error","message":"🥀 No se conecto a la base de datos","timestamp":"06-12-22 17-11-46"}
+{"level":"error","message":"404 - Page Not Found - /main.34a1500773cdff5ea5d8.hot-update.json - Method: GET","timestamp":"06-12-22 17-13-38"}
+{"level":"error","message":"🥀 No se pudo realizar la conexion debido a: connect ECONNREFUSED 127.0.0.1:27016","timestamp":"06-12-22 17-14-03"}
+{"level":"error","message":"🥀 No se conecto a la base de datos","timestamp":"06-12-22 17-14-03"}
+{"level":"error","message":"404 - Page Not Found - /main.222350dc2da8aa28acf2.hot-update.json - Method: GET","timestamp":"06-12-22 17-42-06"}
+{"level":"error","message":"404 - Page Not Found - /main.137e6bd73cd785f7d945.hot-update.json - Method: GET","timestamp":"06-12-22 17-43-35"}
+{"level":"error","message":"404 - Page Not Found - /main.9ba4f8f899c1c1c7ac6b.hot-update.json - Method: GET","timestamp":"06-12-22 22-02-27"}
+{"level":"error","message":"404 - Page Not Found - /main.9ba4f8f899c1c1c7ac6b.hot-update.json - Method: GET","timestamp":"06-12-22 22-02-27"}
+{"level":"error","message":"404 - Page Not Found - /main.92ecae6bdefaea2b3d0a.hot-update.json - Method: GET","timestamp":"06-12-22 22-06-02"}
+{"level":"error","message":"404 - Page Not Found - /main.92ecae6bdefaea2b3d0a.hot-update.json - Method: GET","timestamp":"06-12-22 22-06-02"}
+{"level":"error","message":"404 - Page Not Found - /main.090358b13009e7a077a9.hot-update.json - Method: GET","timestamp":"06-12-22 22-08-34"}
